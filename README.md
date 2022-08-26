@@ -3,7 +3,7 @@ React app that allows you to look for any trade in the firebase database with di
 The app is a prototype, my objective with this app was to learn new technologies and make an app with a personal idea that could help me in my day by day in trading.
 This app could be improve implementing login or other features.
 # Example
-![image](https://user-images.githubusercontent.com/59847094/186907755-1e6b6eff-2505-4a21-adcf-465b70e88e8a.png)
+![image](https://user-images.githubusercontent.com/59847094/186909043-babdc03e-1ed0-4e4c-8371-4361c9c9719c.png)
 
 --------------------------------------------------------------------------------------------------------------
 After you get the results, you can click in each trade to see the images.
