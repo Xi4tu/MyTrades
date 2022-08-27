@@ -6,7 +6,7 @@ This app could be improve implementing login or other features.
 ![image](https://user-images.githubusercontent.com/59847094/186909043-babdc03e-1ed0-4e4c-8371-4361c9c9719c.png)
 
 --------------------------------------------------------------------------------------------------------------
-After you get the results, you can click in each trade to see the images.
+- After you get the results, you can click in each trade to see the images.
 
 ![image](https://user-images.githubusercontent.com/59847094/186907942-0cd31247-8326-4fec-93eb-d4fceee4fb2d.png)
 
